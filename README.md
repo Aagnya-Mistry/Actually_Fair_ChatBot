@@ -1,4 +1,3 @@
-````markdown
 # Actually Fair Chatbot API
 
 This project is a REST API backend for a shopping chatbot for Actually Fair.
